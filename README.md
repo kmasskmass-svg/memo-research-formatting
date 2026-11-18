@@ -1,4 +1,10 @@
+<div dir="rtl" align="right" markdown="1">
+
 # مهارة ميمو لتنسيق البحوث العلمية
+
+## ⬇️ تنزيل المهارة
+
+**[اضغط هنا لتنزيل المهارة (memo-research-formatting.zip)](https://github.com/kmasskmass-svg/memo-research-formatting/releases/latest/download/memo-research-formatting.zip)**
 
 مهارة لـ Claude تنسّق البحوث والرسائل العلمية العربية (ماجستير، دكتوراه، بحوث محكّمة) في ملفات Word، وفق المواصفات المعتمدة في جامعة الملك خالد والجامعات السعودية.
 
@@ -14,7 +20,7 @@
 ## طريقة التثبيت
 
 ### في Claude (الموقع والتطبيق)
-1. نزّل ملف `memo-research-formatting.zip` من قسم **Releases** في هذه الصفحة، أو اضغط زر **Code** ثم **Download ZIP**.
+1. نزّل ملف المهارة من [رابط التنزيل المباشر](https://github.com/kmasskmass-svg/memo-research-formatting/releases/latest/download/memo-research-formatting.zip).
 2. افتح إعدادات Claude، ثم قسم المهارات (Skills)، وارفع الملف المضغوط.
 3. اطلب من Claude بعد ذلك: «نسّق هذا البحث بمهارة ميمو»، وأرفق ملف Word.
 
@@ -40,3 +46,5 @@ python3 scripts/memo_format.py input.docx output.docx --title "عنوان الب
 
 ## الترخيص
 الاستخدام والنشر والتعديل مفتوحة للجميع وفق رخصة MIT.
+
+</div>
